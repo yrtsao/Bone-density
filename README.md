@@ -22,7 +22,9 @@ usage
                           pic 資料夾為最後分割完的影像
                           
      本程式分為兩種模式，照片模式與拍照模式，拍照模式為後會進入框選需範圍。
-     
+
+主程式為 tryToGet_final.py
+
 以下為範例：
 拍照完的選取需求位置
 ![image](https://user-images.githubusercontent.com/82528634/134316046-2f470e1a-0046-4e5b-bc80-1acfdd31ff33.png)
